@@ -1,0 +1,21 @@
+# Files above 50 MiB in the local source tree
+/2025/第二十三届中国研究生数学建模竞赛 - 中文题目.zip
+/2025/2025年研究生数学建模竞赛优秀论文选.zip
+/2026中文题目/F题.zip
+/2026中文题目/E题.zip
+/2026中文题目/E题/E题数据.zip
+/2026中文题目/E题/E题数据/附件2-数据集特征文件/aligned_50.pkl
+/2026中文题目/E题/E题数据/附件2-数据集特征文件/unaligned_50.pkl
+/2026中文题目/F题/real_attachments/A_data_value/slimpajama_quality_signal_sample.jsonl
+/2026中文题目/F题/real_attachments/A_data_value/regmix_domain_sample.jsonl.xz
+/2026中文题目/F题/real_attachments/A_data_value/slimpajama_quality_signal_sample.jsonl.xz
+/2026中文题目/F题/real_attachments/A_data_value/regmix_domain_sample.jsonl
+/2026中文题目/F题/real_attachments/A_data_value/slimpajama_quality_extended/github_part-6777d8857c6e-000275.jsonl
+
+# Local/editor artifacts
+.DS_Store
+._*
+~$*
+*.swp
+__pycache__/
+*.pyc
